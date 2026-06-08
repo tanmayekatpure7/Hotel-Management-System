@@ -52,11 +52,7 @@ A Java Swing-based Hotel Management System that allows hotel staff to manage roo
 * AWT Event Handling
 * Object-Oriented Programming (OOP)
 * Java Date & Time API
-
-## Screenshots
-
-Add screenshots here after uploading them to your repository.
-
+  
 ## Default Login Credentials
 
 Username: admin
